@@ -7,7 +7,6 @@ function solution(arr) {
   }
   return answer;
 }
+const arr1 = [1, 2];
 
-const arr = [1, 1, 3, 3, 0, 1, 1];
-
-console.log(solution(arr));
+console.log(solution(arr1));
